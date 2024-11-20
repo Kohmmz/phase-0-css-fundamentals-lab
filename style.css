@@ -1,5 +1,63 @@
-body {
+body{
   width: 100%;
   height: 100%;
   margin: 0;
 }
+ h1{
+
+  text-align: center;
+  /*Header*/
+ }
+
+
+ #featured-property{
+  /*image*/
+
+  text-align: center;
+}
+
+figure img{
+  text-align: center;
+
+ }
+
+ figcaption{
+text-align: center;
+font-size: large;
+
+ }
+
+ nav a{
+padding: 10px;
+  background-color: lightgray;
+  align-items: center;
+  margin: 5px;
+
+ }
+nav{
+display: flex;
+justify-content: center;
+margin: 5px;
+}
+
+ #featured-property~p {
+  width: 800px;
+  text-align: center;
+
+
+ }
+
+ #details{
+
+
+  display: flex;
+  justify-content:space-between;
+ background-color: red;
+ padding:10px
+
+ }
+
+
+
+
+
